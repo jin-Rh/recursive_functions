@@ -2,4 +2,5 @@
 
 Simple recursive functions written in Java
 
-main methods include some examples to test whether the method are working ok
+main method include an example to test whether the method are working ok.
+
